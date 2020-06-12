@@ -1,0 +1,44 @@
+.footer{
+  margin-top: 1em;
+  border-top: 1px solid #CCC;
+  color: #CCC;
+}
+.footer__cont{
+  border-top: 1px solid white;
+}
+.footer__cont .row{
+  margin: 0;
+}
+.footer__img{
+  width: 30px;
+  height: 30px;
+}
+.footer__cont .row .col-sm-6{
+  margin-top: 1em;
+  color: #CCC;
+}
+.footer__text{
+  margin-top: 1em;
+}
+.footer__links a{
+  color: #CCC;
+  display: block;
+}
+.footer__social .fab{
+  padding-top: 2em;
+  padding-bottom: 1em;
+  font-size: 1.5em;  
+  padding-left: 10px;
+}
+.fa-facebook{
+  color: #1877F2; 
+}
+.fa-twitter{
+  color: #1DA1F2; 
+}
+.fa-google{
+  color: #4285f4; 
+}
+.fa-linkedin-in{
+  color: #007BB5; 
+}

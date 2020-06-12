@@ -1,0 +1,18 @@
+.car{
+  height: 600px;
+}
+@media all and (min-width: 1024px) and (max-width: 1280px) {
+  .car{height: 600px;}
+}
+ 
+@media all and (min-width: 768px) and (max-width: 1024px) {
+  .car{height: 600px;}
+}
+ 
+@media all and (min-width: 480px) and (max-width: 768px) {
+  .car{height: 400px;}
+}
+ 
+@media all and (max-width: 480px) {
+  .car{height: 300px;}
+}
