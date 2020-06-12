@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
  const Navbar = ()=>{
     return(
              <nav className="nav-wrapper">
-                <div className="container right">
+                <div className="container">
                     <Link to="/" className="left-align">Brand Name</Link>
                     
                     <ul className="right">
